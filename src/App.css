@@ -1,0 +1,15 @@
+.App{
+  background-color: #111;
+}
+
+*{
+  margin: 0;
+}
+
+footer{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  background-color: #111;
+  color: aliceblue;
+}
